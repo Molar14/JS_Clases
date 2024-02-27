@@ -15,4 +15,4 @@ const persona = {
   '45_propiedad-Inventrada-$ftfgt': 'todo MAL!!!!'
 }
 
-console.log(persona.eyes.color)
+console.log(persona.age)

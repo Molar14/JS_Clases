@@ -14,5 +14,12 @@ const persona = {
   propiedadInventada: 'todo bien',
   '45_propiedad-Inventrada-$ftfgt': 'todo MAL!!!!'
 }
+const proto = new Object({
+  age: 15,
+  sex: 'allways'
+})
 
+const charly = Object.create(proto)
+
+console.log(charly.age)
 console.log(persona.eyes.color)

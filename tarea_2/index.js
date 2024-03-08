@@ -60,8 +60,7 @@ dado('Elementor', [
   'Elementor',
   'barbie',
   'Max Steel',
-  'Hot Wheels',
-  'Elementor'
+  'Hot Wheels'
 ])
 ordenInverso([1, 2, 3, 4, 5, 6, 7, 8])
 mayorArray([5, 4, 6, 8, 10, 60, 20, 31])
